@@ -8,3 +8,4 @@
     - Python Crawling
     - data analysis (juvenile crime)
     - data visualization (CRM & RFM)
+    - SPSS Analysis
