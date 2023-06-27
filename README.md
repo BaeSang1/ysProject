@@ -3,7 +3,7 @@
 [def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20Project&fontSize=90
 
 
-> AI 플랫폼을 활용한 빅데이터 분석 전문가 과정
+## > AI 플랫폼을 활용한 빅데이터 분석 전문가 과정
 - R-Studio_Crawling.pdf
   - R프로그램을 사용한 크롤링에 대한 이해
     - 배운 내용을 개인 과제로 제출하였음.
