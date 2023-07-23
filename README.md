@@ -39,7 +39,9 @@
 
 - Kaggle_Store_Sales.pdf
   - 세 번째 팀 프로젝트 : Kaggle 대회 참여
-    - 해당 주제에 대한 클론 코딩, 머신러닝 모델 생성 및 학습 Streamlit으로 배포
+    - 해당 주제에 대한 클론 코딩, 머신러닝 모델 생성 및 학습
+    - Streamlit으로 서비스 배포
+    - https://baesang1-storesales-project-main-app-0bpw29.streamlit.app/
 
 
 - ForestFire.pdf
