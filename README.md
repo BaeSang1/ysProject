@@ -59,7 +59,7 @@
 
    > 개요 : Kaggle 대회 참여. Store Sales의 주제에 대한 클론 코딩 및 머신러닝 모델 생성. Streamlit으로 서비스 배포
    >
-   > 내용 : [Kaggle_Store_Sales.pdf](https://github.com/BaeSang1/StoreSales_Project)
+   > 내용 : [Kaggle_Store_Sales](https://github.com/BaeSang1/StoreSales_Project)
    >
    > 개발환경 : Python, Pycharm
    >
