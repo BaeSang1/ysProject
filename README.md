@@ -11,7 +11,7 @@
 
    > 개요 : 뉴스 크롤링과 워드클라우드 시각화
    > 
-   > 내용 : [R-Studio_Crawling.pdf](https://github.com/BaeSang1/ysProject/blob/main/R-Studio_Crawling.pdf)
+   > 내용 : [R-Studio_Crawling](https://github.com/BaeSang1/ysProject/blob/main/R-Studio_Crawling.pdf)
    >
    > 개발환경 : R-studio
    > 
@@ -21,7 +21,7 @@
    
    > 개요 : 파이썬을 활용하여 웹크롤링을 하고 원하는 정보를 불러오는 비서 생성
    > 
-   > 내용 : [Python_Crawling.pdf](https://github.com/BaeSang1/ysProject/blob/main/Python_Crawling.pdf)
+   > 내용 : [Python_Crawling](https://github.com/BaeSang1/ysProject/blob/main/Python_Crawling.pdf)
    >
    > 개발환경 : Python
    >
@@ -35,7 +35,7 @@
 
    > 개요 : 가상의 화장품 회사에 대한 고객 데이터를 분석하는 컨셉으로 시나리오 진행. 시각화 자료를 바탕으로 기존 고객 이탈방지 및 신규 고객 유치에 대한 솔루션 도출
    >
-   > 내용 : [Data_Visualization(CRM&RFM).pdf](https://github.com/BaeSang1/ysProject/blob/main/Data_Visualization(CRM%26RFM).pdf)
+   > 내용 : [Data_Visualization(CRM&RFM)](https://github.com/BaeSang1/ysProject/blob/main/Data_Visualization(CRM%26RFM).pdf)
    > 
    > 개발환경 : Hadoop, hive, excel
    > 
@@ -47,7 +47,7 @@
 
    > 개요 : 공모전 출품작으로 청소년 정신건강에 영향을 미치는 요인에 대한 데이터 분석 및 인사이트 도출
    > 
-   > 내용 : [Youth_Mental_Health.pdf](https://github.com/BaeSang1/ysProject/blob/main/Youth_Mental_Health.pdf)
+   > 내용 : [Youth_Mental_Health](https://github.com/BaeSang1/ysProject/blob/main/Youth_Mental_Health.pdf)
    > 
    > 개발환경 : Python
    > 
@@ -71,7 +71,7 @@
 
    > 개요 : 강원도 산불 데이터와 기상 데이터를 활용하여 지도 시각화 및 머신러닝 모델을 생성하고 산불 발생 지수 개발. 산불발생과 관련된 사진을 활용하여 이미지 학습을 통한 산불 판별 딥러닝 모델 개발.
    >
-   > 내용 : [ForestFire.pdf](https://github.com/BaeSang1/ysProject/blob/main/ForestFire.pdf)
+   > 내용 : [ForestFire](https://github.com/BaeSang1/ysProject/blob/main/ForestFire.pdf)
    > 
    > 개발환경 : Python
    >
