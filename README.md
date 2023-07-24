@@ -17,7 +17,6 @@
    > 
    > 역할 : 다음뉴스 페이지에서 키워드 '질병'을 검색한 뉴스기사를 크롤링하고 워드 시각화. 기여도(100%)
 
-
 2. 비서 만들기
    
    > 개요 : 파이썬을 활용하여 웹크롤링을 하고 원하는 정보를 불러오는 비서 생성
@@ -64,11 +63,19 @@
    > 
    > 개발환경 : Python
    > 
-   > 역할 : 데이터 수집 및 전처리, 기여도(25%)
+   > 역할 : 데이터 수집 및 전처리, 기여도(25%) / 시각화 시나리오 및 시각화, 기여도(50%)
+   >
+   > 프로젝트 참여 인원 : 5명
 
+4. Kaggle - Store Sales
 
-- Kaggle_Store_Sales.pdf
-  - 세 번째 팀 프로젝트 : Kaggle 대회 참여
+   > 개요 : Kaggle 대회 참여. Store Sales의 주제에 대한 클론 코딩 및 머신러닝 모델 생성. Streamlit으로 서비스 배포
+   >
+   > 내용 : Kaggle_Store_Sales.pdf
+   >
+   > 개발환경 : Python, Pycharm
+   >
+   > 역할 : 
     - 해당 주제에 대한 클론 코딩, 머신러닝 모델 생성 및 학습
     - Streamlit으로 서비스 배포
     - https://baesang1-storesales-project-main-app-0bpw29.streamlit.app/
