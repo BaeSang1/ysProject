@@ -3,7 +3,8 @@
 [def]: https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=%20Project&fontSize=90
 
 
-> AI 플랫폼을 활용한 빅데이터 분석 전문가 과정 (21.12.28 ~ 23.06.23)
+ 
+### AI 플랫폼을 활용한 빅데이터 분석 전문가 과정 (21.12.28 ~ 23.06.23)
 > 
 > R-Studio_Crawling.pdf
 > 
