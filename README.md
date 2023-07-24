@@ -75,10 +75,11 @@
    >
    > 개발환경 : Python, Pycharm
    >
-   > 역할 : 
-    - 해당 주제에 대한 클론 코딩, 머신러닝 모델 생성 및 학습
-    - Streamlit으로 서비스 배포
-    - https://baesang1-storesales-project-main-app-0bpw29.streamlit.app/
+   > 역할 : 데이터 전처리, 시각화. 기여도(30%) / Streamlit 서비스 배포. 기여도(80%)
+   >
+   > 프로젝트 참여 인원 : 5명
+   >
+   > https://baesang1-storesales-project-main-app-0bpw29.streamlit.app/
 
 
 - ForestFire.pdf
