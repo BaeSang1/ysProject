@@ -5,30 +5,6 @@
 
  
 ## AI 플랫폼을 활용한 빅데이터 분석 전문가 과정 (22.12.28 ~ 23.06.23)
-### 개인 프로젝트
----
-1. R-studio를 활용한 뉴스 크롤링
-
-   > 개요 : 뉴스 크롤링과 워드클라우드 시각화
-   > 
-   > 내용 : [R-Studio_Crawling](https://github.com/BaeSang1/ysProject/blob/main/R-Studio_Crawling.pdf)
-   >
-   > 개발환경 : R-studio
-   > 
-   > 역할 : 다음뉴스 페이지에서 키워드 '질병'을 검색하여 뉴스기사를 크롤링하고 워드 시각화. 기여도(100%)
-
-2. 비서 만들기
-   
-   > 개요 : 파이썬을 활용하여 웹크롤링을 하고 원하는 정보를 불러오는 비서 생성
-   > 
-   > 내용 : [Python_Crawling](https://github.com/BaeSang1/ysProject/blob/main/Python_Crawling.pdf)
-   >
-   > 개발환경 : Python
-   >
-   > 역할 : 크롤링 코드 작성. 기여도(100%)
-
-<br>
-
 ### 팀 프로젝트
 ---
 1. 고객 데이터를 활용한 고객 등급화 및 마케팅 방안
@@ -78,3 +54,26 @@
    > 역할 : 데이터 수집, 전처리. 기여도(30%) / 지도시각화 및 시각화. 기여도(60%)
    >
    > 프로젝트 참여 인원 : 4명
+
+<br>
+### 개인 프로젝트
+---
+1. R-studio를 활용한 뉴스 크롤링
+
+   > 개요 : 뉴스 크롤링과 워드클라우드 시각화
+   > 
+   > 내용 : [R-Studio_Crawling](https://github.com/BaeSang1/ysProject/blob/main/R-Studio_Crawling.pdf)
+   >
+   > 개발환경 : R-studio
+   > 
+   > 역할 : 다음뉴스 페이지에서 키워드 '질병'을 검색하여 뉴스기사를 크롤링하고 워드 시각화. 기여도(100%)
+
+2. 비서 만들기
+   
+   > 개요 : 파이썬을 활용하여 웹크롤링을 하고 원하는 정보를 불러오는 비서 생성
+   > 
+   > 내용 : [Python_Crawling](https://github.com/BaeSang1/ysProject/blob/main/Python_Crawling.pdf)
+   >
+   > 개발환경 : Python
+   >
+   > 역할 : 크롤링 코드 작성. 기여도(100%)
