@@ -47,7 +47,7 @@
 
    > 개요 : 강원도 산불 데이터와 기상 데이터를 활용하여 지도 시각화 및 머신러닝 모델을 생성하고 산불 발생 지수 개발. 산불발생과 관련된 사진을 활용하여 이미지 학습을 통한 산불 판별 딥러닝 모델 개발.
    >
-   > 내용 : [ForestFire](https://github.com/BaeSang1/ysProject/blob/main/ForestFire.pdf)
+   > 내용 : [ForestFire](https://github.com/BaeSang1/Forest_Fire_PJT)
    > 
    > 개발환경 : Python
    >
