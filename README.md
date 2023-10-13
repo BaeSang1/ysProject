@@ -9,7 +9,7 @@
 ---
 1. 고객 데이터를 활용한 고객 등급화 및 마케팅 방안
 
-   > 개요 : 가상의 화장품 회사에 대한 고객 데이터를 바탕으로 기존 고객 이탈방지 및 신규 고객 유치에 대한 솔루션 도출
+   > 개요 : 가상의 화장품 회사에 대한 고객 데이터를 바탕으로 기존 고객 이탈방지 및 신규 고객 유치 솔루션 도출
    >
    > 내용 : [Data_Visualization(CRM&RFM)](https://github.com/BaeSang1/ysProject/blob/main/Data_Visualization(CRM%26RFM).pdf)
    > 
